@@ -1,6 +1,6 @@
 # 🌐 Lahari Gadamsetty — Personal Portfolio
 
-A modern, responsive, and visually appealing personal portfolio website showcasing my **skills, education, projects, Certifications and resume**.  
+A modern, responsive, and visually appealing personal portfolio website showcasing my **skills, education, projects,Achivements, Certifications and resume**.  
 Built using **HTML, CSS, and JavaScript**, with smooth animations, and mobile responsiveness.
 
 ---
@@ -38,7 +38,7 @@ Built using **HTML, CSS, and JavaScript**, with smooth animations, and mobile re
 
 Netlify URL: 
 ```
-https://lahari-portfolioo.netlify.app/
+https://lahari-portfolio7.netlify.app/
 ```
 ---
 
